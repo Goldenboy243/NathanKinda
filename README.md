@@ -29,8 +29,7 @@
 ---
 
 ### 🛠️ My Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+<p align="left"><marquee behavior="scroll" direction="left" scrollamount="5">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -49,8 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
   <img src="https://cdn.simpleicons.org/render/009688" width="40" height="40" alt="Render" />
-</p>
-
+</marquee></p>
 ---
 
 ### 🚀 Current Projects & Learning Path
@@ -69,14 +67,12 @@
 ---
 
 ### 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathankinda&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center"><marquee behavior="scroll" direction="left" scrollamount="5">  <img src="https://github-readme-stats.vercel.app/api?username=nathankinda&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nathankinda&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathankinda&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=nathankinda&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
+</marquee></p>
 ---
 
 ### 📈 Visitor Count
