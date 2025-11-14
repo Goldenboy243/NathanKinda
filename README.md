@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" />
     </a>
-    <a href="mailto:nathankinda2004@gmail.com" target="_blank">
+    <a href="mailto:Goldenboy2432004@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail" />
     </a>
     <a href="https://shanvisarl.com" target="_blank">
@@ -29,7 +29,7 @@
 ---
 
 ### 🛠️ My Tech Stack
-<p align="left"><marquee behavior="scroll" direction="left" scrollamount="5">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+<p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
   <img src="https://cdn.simpleicons.org/render/009688" width="40" height="40" alt="Render" />
-</marquee></p>
+</p>
 ---
 
 ### 🚀 Current Projects & Learning Path
@@ -67,15 +67,15 @@
 ---
 
 ### 📊 GitHub Stats & Trophies
-<p align="center"><marquee behavior="scroll" direction="left" scrollamount="5">  <img src="https://github-readme-stats.vercel.app/api?username=nathankinda&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nathankinda&theme=radical" alt="GitHub Streak" />
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Goldenboy243&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goldenboy243&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathankinda&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nathankinda&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</marquee></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenboy243&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Goldenboy243&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 ---
 
 ### 📈 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathankinda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Goldenboy243&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
