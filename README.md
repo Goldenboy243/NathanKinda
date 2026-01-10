@@ -82,7 +82,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Goldenboy243&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </a>
 </p>
-</p>
 ---
 
 ### 📈 Visitor Count
