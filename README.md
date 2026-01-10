@@ -67,11 +67,21 @@
 ---
 
 ### 📊 GitHub Stats & Trophies
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Goldenboy243&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Goldenboy243&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenboy243&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Goldenboy243&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<p align="center">
+<a href="https://github.com/Goldenboy243">
+<img src="https://github-readme-stats.vercel.app/api?username=Goldenboy243&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Goldenboy243">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Goldenboy243&theme=radical" alt="GitHub Streak" />
+</a>
+<br />
+<a href="https://github.com/Goldenboy243">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenboy243&layout=compact&theme=radical" alt="Top Languages" />
+</a>
+<a href="https://github.com/Goldenboy243">
+<img src="https://github-profile-trophy.vercel.app/?username=Goldenboy243&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</a>
+</p>
 </p>
 ---
 
