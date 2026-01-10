@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hi 👋, I'm Nathan Kinda</h1>
-  <h3>A passionate Full-Stack Developer & Tech Explorer based in India</h3>
+  <h3>A passionate Software Developer & Tech Explorer based in India</h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+    <a href="https://www.linkedin.com/in/LINK-HERE" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" />
     </a>
-    <a href="mailto:Goldenboy2432004@gmail.com" target="_blank">
+    <a href="mailto:Goldenboy@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail" />
     </a>
     <a href="https://shanvisarl.com" target="_blank">
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 Originally from earth, currently living and studying in **India**.
+- 🌍 Originally from earth.
 - 🎓 I'm a **Computer Science & Engineering student** with a strong focus on building scalable web applications.
 - 🔥 Passionate about mastering **Data Structures & Algorithms** and backend development.
 - 🚀 Deeply interested in **ed-tech**, **real estate tech**, and building **vocational training platforms**.
-- 🧑‍💻 Currently developing a **Real Estate Marketplace project** using **Flask**.
+- 🧑‍💻 Currently developing what could be the next **Unicorn**.
 - 🎯 Exploring opportunities in **B2C/C2C platforms**, with a special focus on African markets.
 
 ---
@@ -60,8 +60,8 @@
   - 🧠 Continuously improving problem-solving skills with daily **DSA practice**.
 
 - **Actively Developing:**
-  - 🏠 **Real Estate Marketplace (Flask):** A platform to connect buyers, sellers, and agents.
-  - 📚 **Ed-Tech Platform:** An educational service for African students studying in India.
+  - 🏠 **Real Estate Marketplace:** A platform to connect buyers, sellers, and agents.
+  - 📚 **Ed-Tech Platform:** An educational service for African students.
   - ✈️ **Immigration Support Tools:** Visa and travel tools with real-time data for students.
 
 ---
