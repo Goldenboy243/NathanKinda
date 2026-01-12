@@ -67,12 +67,11 @@
 ---
 
 ### 📊 GitHub Stats & Trophies
-> **Note:** GitHub Statistics badges are temporarily unavailable due to external service outages. The badge services (github-readme-stats, github-readme-streak-stats, github-profile-trophy) are currently paused. Check back soon!
+[![GitHub Stats](https://github-stats-catouse.vercel.app/api?username=Goldenboy243&show_icons=true&theme=radical)](https://github.com/Goldenboy243)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Goldenboy243&theme=radical)](https://github.com/Goldenboy243)
 
-**Stats Summary:**
-- **Total Contributions:** 55
-- **Current Streak:** 0 days (as of Jan 12)
-- **Longest Streak:** 5 days (Jan 6 - Jan 10)
+[![Top Languages](https://github-stats-catouse.vercel.app/api/top-langs/?username=Goldenboy243&layout=compact&theme=radical)](https://github.com/Goldenboy243)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=Goldenboy243&theme=radical&no-bg=true&no-frame=true)](https://github.com/Goldenboy243)
 
 ### 📈 Visitor Count
 <p align="center">
