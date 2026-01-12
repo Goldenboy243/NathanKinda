@@ -78,6 +78,7 @@
 <a href="https://github.com/Goldenboy243">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenboy243&layout=compact&theme=radical" alt="Top Languages" />
 </a>
+  <br />
 <a href="https://github.com/Goldenboy243">
 <img src="https://github-profile-trophy.vercel.app/?username=Goldenboy243&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </a>
